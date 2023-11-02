@@ -1,0 +1,8 @@
+.play-movies{
+    padding-top: 70px;
+    padding-left: 70px;
+}
+
+.play-movies video{
+    width: 90vw;
+}

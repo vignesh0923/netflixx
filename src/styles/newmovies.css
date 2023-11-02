@@ -1,0 +1,18 @@
+.new-movies-container {
+    padding-top: 5vw;
+    padding-left: 5vw;
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.new-movies-div {
+    width: 18vw;
+}
+
+.new-movies-div img {
+    width: 18vw;
+    border-radius: 8px;
+    cursor: pointer;
+}

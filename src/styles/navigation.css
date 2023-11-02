@@ -1,0 +1,37 @@
+.navigation-ul{
+    background-color: #000000;
+    width: 100vw;
+    height: 5vw;
+    padding-left: 60px;
+    display: flex;
+    gap: 20px;
+    position: fixed;
+    z-index: 1;
+}
+.navigation-img{
+    list-style: none;
+}
+.netflix-logo{
+    width: 10vw;
+    cursor: pointer;
+    padding-top: 2px;
+}
+
+.navigation-li{
+    list-style: none;
+    padding-top: 16px;
+}
+ 
+.navigation-li-Link{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+.navigation-li:last-child{
+    display: flex;
+    margin-left: 700px;
+    gap: 10px;
+    cursor: pointer;
+}
+

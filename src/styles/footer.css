@@ -1,0 +1,39 @@
+.footer{
+    padding-left:25vw;
+    padding-top: 70px;
+}
+.footer-logo{
+    display: flex;
+    gap: 20px;
+}
+
+.footer-link{
+    display: flex;
+    gap:100px
+}
+
+.footer-down1{
+    margin-top: 10px;
+}
+
+.footer-down2{
+    margin-top: 10px;
+}
+.footer-down1 p,.footer-down2 p,.footer-down3 p,.footer-down4 p{
+    margin-top: 10px;
+    font-size: 13px;
+    color: grey;
+    font-family: Helvetica Neue,Segoe UI,Roboto,Ubuntu,sans-serif;
+    cursor: pointer;
+}
+.footer-down1 button{
+    background-color: #000;
+    color: gray;
+    border: 1px solid #fff;
+    margin-top: 20px;
+    padding: 8px 18px;
+}
+
+.footer-down1 span{
+    margin-top: 100px;
+}

@@ -1,0 +1,16 @@
+.my-collections{
+    color: #fff;
+    padding-top: 100px;
+    padding-left: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.my-collection-img{
+    width: 18vw;
+    height: 12vw;
+    border-radius: 4px;
+    object-fit: cover;
+    cursor: pointer;
+}
